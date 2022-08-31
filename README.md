@@ -1,7 +1,7 @@
 # Project Stage MEDIANET
 
 ## Description
-Project description
+This project is a room booking management system developed for Medianet. The purpose of this web app is to allow Medianet employees to easily check the availability and book one of the boxes for a meeting without overlapping with other employees.
 
 ## Pre-installation
 * PHP version 8
